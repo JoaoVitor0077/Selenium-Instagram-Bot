@@ -59,7 +59,7 @@ entrar.click()
 sleep(5)
 # Navegar até a página alvo
 while True:
-    # Colocar o link da página alvo qui
+    # Colocar o link da página alvo aqui
     driver.get('')
     sleep(10)
     # Clicar na última  postagem
