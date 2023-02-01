@@ -1,0 +1,4 @@
+Na linha 48, em "campo_email", preencha os "('')" com o email da conta que deseja automatizar 
+Na linha 53, em "campo_senha", preencha os "('')" com a senha da conta que deseja automatizar
+Na linha 63, em "driver.get", preencha os "('')" com o link da página alvo
+após isso, inicie o código
